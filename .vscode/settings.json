@@ -1,0 +1,6 @@
+{
+  "github.copilot.enable": {
+    "scminput": true
+  },
+  "github.copilot.nextEditSuggestions.enabled": true
+}
